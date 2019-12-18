@@ -1,5 +1,8 @@
 package com.revature;
 
+import com.revature.model.Account;
+import com.revature.model.User;
+
 /** 
  * Create an instance of your controller and launch your application.
  * 
@@ -8,7 +11,8 @@ package com.revature;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("test.");
 		
+
+
 	}
 }
